@@ -1,1 +1,1 @@
-# Just a Noodle Soup Json Mask
+# Just a Noodle Soup Prompt json data, nothing else.
